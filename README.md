@@ -32,12 +32,7 @@ Each folder represents a separate game project:
    cd test-games/GameName
    ```
 
-3. (Optional) Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the game:
+3. Run the game:
    ```bash
    python main.py
    ```
