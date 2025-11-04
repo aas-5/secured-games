@@ -34,7 +34,7 @@ Each folder represents a separate game project:
 
 3. Run the game:
    ```bash
-   python secured-games.py
+   python secured_GAMES.py
    ```
 
 ---
