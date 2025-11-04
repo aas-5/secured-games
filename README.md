@@ -29,12 +29,12 @@ Each folder represents a separate game project:
 
 2. Enter the project folder:
    ```bash
-   cd test-games/GameName
+   cd [file location]
    ```
 
 3. Run the game:
    ```bash
-   python main.py
+   python secured-games.py
    ```
 
 ---
